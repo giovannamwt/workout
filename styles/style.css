@@ -1,0 +1,186 @@
+@import url('https://fonts.googleapis.com/css2?family=Fredoka:wght@300..700&family=Inter:wght@100..900&family=Open+Sans:ital,wght@0,300..800;1,300..800&family=Zilla+Slab:ital,wght@0,300;0,400;0,500;0,600;0,700;1,300;1,400;1,500;1,600;1,700&display=swap');
+
+body{
+    background-color: #171717;
+    font-family: "inter", sans-serif;
+    max-width: 1312px;
+    margin: auto;
+}
+nav{
+    display: flex;
+    color: white;
+    font-size: 12px;
+    justify-content: space-between;
+    margin-top: 20px;
+}
+#nav-bar{
+    display: flex;
+    list-style: none;
+    justify-content: space-around;
+}
+li{
+    font-weight: 300;
+    margin:10px;
+}
+#principal{
+    color: white;
+    text-transform: uppercase;
+    font-size: 172px;
+    font-weight: 900;
+    line-height: 170px;
+    margin-bottom: 46px;
+}
+
+p{
+    color: white;
+    font-size: 16px;
+    font-weight: 100;
+    letter-spacing: 2px;
+    line-height: 24px;
+    margin-bottom: 46px;
+    
+}
+
+#btn-main{
+    background-color: #E6533C;
+    color: white;
+    padding: 25px;
+    font-size: 18px;
+    border-radius: 10px;
+    border-style: none;
+    margin-bottom: 112px;
+    
+}
+
+section{
+    
+    display: flex;
+}
+
+#atleta{
+    height: 684px;
+    margin-top: 200px;
+
+}
+
+#logomarcas{
+    width: 600px;
+    display: flex;
+    list-style: none;
+    justify-content: space-between;
+}
+
+.conteudo{
+    flex-direction: column;
+    
+
+}
+
+#title{
+    color: white;
+    size: 40px;
+    margin-bottom: 38px;
+    max-width: 480px;
+}
+
+#mulher{
+    width: 640px;
+}
+
+#see{
+    text-decoration: none;
+    color: #0070C9;
+
+}
+
+#terceira{
+    align-items: center;
+    justify-content: space-between;
+    margin-bottom: 100px;
+}
+
+#paragrafo{
+    width: 480px;
+}
+
+#mulher2{
+    width: 560px;
+}
+
+
+#quarta{
+    align-items: center;
+    justify-content: space-between;
+    margin-bottom: 100px;
+}
+
+.produto{
+    background-color: #323443;
+    border-radius: 12px;
+    color: white;
+    padding: 30px;
+    max-width: 230px;
+}
+
+#produtos{
+    display: flex;
+    list-style: none;
+}
+h2{
+    font-size: 16px;
+}
+h3{
+    font-size: 14px;
+    font-weight: 100;
+}
+.seta{
+    display: flex;
+    align-items: center;
+
+}
+.seta img{
+    margin-left: 10px;
+    height: 24.22px;
+}
+
+#segunda{
+    margin-bottom: 100px;
+}
+
+#primeira{
+    margin-bottom: 200px;
+}
+
+#line{
+    background-color: #707070;
+    height: 1px;
+    width: 100%;
+}
+
+#quinta{
+    flex-direction: column;
+}
+
+#planos{
+    display: flex;
+    list-style: none;
+    justify-content: space-around;
+
+}
+
+.plano{
+    background-color: #232532;
+    color: white;
+    padding: 30px;
+    max-width: 400px;
+
+}
+
+#ultimo{
+    background-color: #0070C9;
+    color: white;
+    border-style: none;
+    padding: 10px;
+    border-radius: 10px;
+}
+
